@@ -1,0 +1,14 @@
+.box1 {
+    width: 50%;
+    min-height: 100px;
+    background: red;
+    float: left;
+}
+
+
+.test{
+    width: 50%;
+    min-height: 100px;
+    background: blue;
+    float: left;
+}

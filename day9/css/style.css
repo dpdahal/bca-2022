@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    width: 80%;
+    background-color: #0255ff;
+    color: #fff;
+    height: 80px;
+    position: fixed;
+    left: 20%;
+    z-index: 1;
+}
+aside {
+    width: 20%;
+    background-color: #f60202;
+    color: #fff;
+    padding: 10px;
+    height: 100%;
+    position: fixed;
+}
+main {
+    width: 78%;
+    background-color: gray;
+    min-height: 50%;
+    position: absolute;
+    left: 21.5%;
+    top: 85px;
+}
+footer {
+    width: 80%;
+    background-color: #000;
+    color: #fff;
+    height: 80px;
+    position: absolute;
+    left: 20%;
+    bottom: 0;
+}
